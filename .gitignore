@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.uv/
+.DS_Store
+*.pt
+*.parquet
+*.eval.json
+*.eval.jsonl
+/data/
+/checkpoints/
+/logs/
